@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Vignesh Balaji
-- 👀 I’m interested in building software that can impact people's lives
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on side projects
-- 📫 How to reach me : bv1494@gmail.com
+## Hey, I'm Vignesh 👋
 
-<!---
-Vbdata13/Vbdata13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Product Data Scientist → AI builder. I use LLMs to ship tools I actually want to exist.  
+Building at the intersection of **AI · finance · product**.
+
+---
+
+### What I'm building
+
+| Project | What it does | Stack |
+|---|---|---|
+| 💹 **TradeSage** | AI trading advisor — real-time stock data, streaming Claude analysis, EMA/RSI/IV signals, options strategies | JS · Claude API · Yahoo Finance · Vercel |
+| 📊 **Option Screener** | Automated Robinhood options screener — filters POP ≥ 65%, composite scoring model, portfolio constraint optimization | Python · Streamlit · robin_stocks |
+| ✏️ **Clue Craft** | Daily AI-generated crossword puzzles — 3 difficulty tiers, hints system, daily mode, mobile-first | Vanilla JS · Claude API · Vercel |
+| 🧪 **Daily Discovery** | Element-combination puzzle game (Infinite Craft–style) with AI-powered combinations | HTML/CSS/JS · Claude API |
+
+---
+
+**Stack I reach for:** Python · JavaScript · Claude API · Streamlit · Vercel  
+**Day job:** Product Analytics + AI @ Meta
