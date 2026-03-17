@@ -1,6 +1,6 @@
 ## Hey, I'm Vignesh 👋
 
-Senior Product Data Scientist → AI builder. I use LLMs to ship tools I actually want to exist.  
+Senior Product Analyst → AI builder. I use LLMs to ship tools I actually want to exist.  
 Building at the intersection of **AI · finance · product**.
 
 ---
