@@ -29,4 +29,5 @@ Working at the intersection of **AI · evals · finance · product**.
 
 **Stack I reach for:** Python · JavaScript · Claude API · eval harnesses (`uv`/pytest) · Streamlit · Vercel
 **Day job:** Product Analytics + AI @ Meta
+**Community:** Reviewer, ICML 2025
 **Currently obsessed with:** agent skills, eval design, and making *"it works"* mean something you can measure.
